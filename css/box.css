@@ -1,0 +1,18 @@
+#box{
+    display: inline-block;
+    
+    background-color: #291c0e;
+    box-shadow: 8px 8px 1px rgba(0, 0, 0, 0.918);
+    text-align: center;
+    padding: 42px 44px;
+    
+}
+
+#box h1{
+    margin-bottom: 28px;
+    letter-spacing: 7px;
+}
+
+#box h3{
+    letter-spacing: 10px;
+}

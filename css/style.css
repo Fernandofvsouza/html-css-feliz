@@ -58,7 +58,7 @@ a.nav-bar::before{
     font-family:"Hanalei Fill", serif;
     font-size: 20px;
     font-weight: 500;
-    box-shadow: 5px 5px 0px black;
+    box-shadow: 3px 3px 1px black;
     margin-right: 0;
     transition: transform 0.5s cubic-bezier(0.42, 0.01, 0.36, 0.97);
     
@@ -68,3 +68,4 @@ a.nav-bar::before{
     transform: scale(1.08);
 
 }
+
