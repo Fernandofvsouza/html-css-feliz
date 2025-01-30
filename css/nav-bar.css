@@ -1,0 +1,23 @@
+
+.nav-bar{
+    display: inline-flex;
+    align-items: center;
+    color: #E1D4C2;
+    font-size: 20px;
+    font-family: "Fira Code", serif;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
+    transition: 0.3s linear;
+}
+.nav-bar:hover{
+    transform: scale(1.05);
+}
+.nav-bar::before{
+    content: '';
+    background-color: #76993d;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+
+}

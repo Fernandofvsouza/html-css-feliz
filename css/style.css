@@ -21,51 +21,9 @@ header{
     
 
 }
-nav{
-    text-align: right;
-}
 
 
-a{
-    display: inline-flex;
-    align-items: center;
-    color: #E1D4C2;
-    font-size: 20px;
-    font-family: "Fira Code", serif;
-    font-weight: 500;
-    text-decoration: none;
-    margin-right: 30px;
-    transition: 0.3s linear;
-}
-a:hover{
-    transform: scale(1.05);
-}
-a.nav-bar::before{
-    content: '';
-    background-color: #76993d;
-    width: 10px;
-    height: 10px;
-    margin-right: 10px;
 
-}
 
-.button{
-    background-color: #76993d;
-    color: #291c0e;
-    text-transform: uppercase;
-    height: 60px;
-    width: 170px;
-    font-family:"Hanalei Fill", serif;
-    font-size: 20px;
-    font-weight: 500;
-    box-shadow: 3px 3px 1px black;
-    margin-right: 0;
-    transition: transform 0.5s cubic-bezier(0.42, 0.01, 0.36, 0.97);
-    
-}
-.button:hover{
-    cursor: pointer;
-    transform: scale(1.08);
 
-}
 

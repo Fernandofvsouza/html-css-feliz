@@ -1,0 +1,39 @@
+.button{
+    background-color: #76993d;
+    color: #291c0e;
+    text-transform: uppercase;
+    height: 60px;
+    width: 170px;
+    font-family:"Hanalei Fill", serif;
+    font-size: 20px;
+    font-weight: 500;
+    box-shadow: 3px 3px 1px black;
+    margin-right: 0;
+    transition: transform 0.5s cubic-bezier(0.42, 0.01, 0.36, 0.97);
+    
+}
+.button:hover{
+    cursor: pointer;
+    transform: scale(1.08);
+
+}
+
+.button2{
+    background-color: #76993d;
+    color: #291c0e;
+    text-transform: uppercase;
+    height: 60px;
+    width: 170px;
+    font-family:"Hanalei Fill", serif;
+    font-size: 20px;
+    font-weight: 500;
+    box-shadow: 3px 3px 1px black;
+    margin-right: 0;
+    transition: transform 0.5s cubic-bezier(0.42, 0.01, 0.36, 0.97);
+
+}
+.button2:hover{
+    cursor: pointer;
+    transform: scale(1.08);
+
+}
