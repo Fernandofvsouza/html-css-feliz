@@ -36,14 +36,14 @@
 }
 .bar{
     
-    background-image: linear-gradient(to right, #76993d, #76993d, #76993d, #76993d,  #Fff );
+    background-image: linear-gradient(to right, #76993d 90%,  #Fff );
     height: 40px;
     width: 367px;
     border: 5px solid black;
 }
 .bar2{
     
-    background-image: linear-gradient(to right, #76993d, #76993d,  #Fff );
+    background-image: linear-gradient(to right, #76993d 60%,  #Fff );
     height: 40px;
     width: 367px;
     border: 5px solid black;
